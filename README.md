@@ -6,16 +6,16 @@ SafeHer Pro provides emergency assistance features such as SOS alerts, live loca
 
  🚀 Features
 
-#🚨 Emergency SOS
+###🚨 Emergency SOS
 - One-click SOS activation
 - Device vibration feedback
 - Automatic location retrieval
 
-# 📍 Live Location Tracking
+### 📍 Live Location Tracking
 - Fetches current location using browser geolocation
 - Opens location in Google Maps
 
-# 🎤 Voice SOS
+### 🎤 Voice SOS
 - Voice command detection
 - Activates SOS when user says:
   - "Help"
